@@ -13,14 +13,6 @@ Compares Random Forest and XGBoost performance side by side and uses SHAP to exp
 
 Delinquency rate in production: 3.75% before, 2.25% after.
 
-## Model Output
-
-![Model Results](data/model_results.png)
-
-## SHAP Feature Importance
-
-![SHAP Summary]([data/shap_summary.png](https://github.com/GiselleBarretto/Credit-Risk-Model/blob/main/credit-risk-model-main/shap_summary.png))
-
 ## Sample Predictions
 
 See `data/predictions.csv` for a full scored dataset. Sample:
