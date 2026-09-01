@@ -63,5 +63,3 @@ credit-risk-model/
 │   └── predict.py
 └── requirements.txt
 ```
-
-Built by Sohan Sethi | [LinkedIn](https://linkedin.com/in/sohansethi)
