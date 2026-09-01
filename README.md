@@ -19,7 +19,7 @@ Delinquency rate in production: 3.75% before, 2.25% after.
 
 ## SHAP Feature Importance
 
-![SHAP Summary](data/shap_summary.png)
+![SHAP Summary]([data/shap_summary.png](https://github.com/GiselleBarretto/Credit-Risk-Model/blob/main/credit-risk-model-main/shap_summary.png))
 
 ## Sample Predictions
 
